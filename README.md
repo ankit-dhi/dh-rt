@@ -3,6 +3,18 @@
 All the design has been generated with [tailwindcss](https://tailwindcss.com/).
 Find all the theme related configuration inside tailwind.config.js
 
+# Running the storybook
+
+We have detected common components and have generated possible variants of it. To check the documentation of generated common components by integrating storybook, Please follow below steps.
+
+## Install and Initializes
+
+     npx storybook init
+
+## Run the Storybook
+
+      npm run storybook
+
 <div>
   <h1 align="center">Getting Started with React Figma Web 🚀 </h1>
   <strong>
